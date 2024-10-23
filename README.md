@@ -6,3 +6,6 @@ One of the game’s main features is the AI’s tunable difficulty, which can be
 
 
 <img width="533" alt="Screenshot 2024-10-01 at 21 37 29" src="https://github.com/user-attachments/assets/5f489d33-1741-4e98-a4a9-6cbf584f79c6">
+
+#Checkers
+#AI
